@@ -32,11 +32,11 @@ This task entailed the analysis of social media ad campaign data for a fintech c
   
   Link 2: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-2/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
-- Screenshots:
+- Dashboard Screenshots:
   
-  1. https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.png
+  Dashboard 1: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.png "Logo title text 1")
   
-  2. https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Continuation.png
+  Dashboard 2: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Continuation.png "Logo title text 2")
 
 - Dataset: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/data_cleaned.csv
 
