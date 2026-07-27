@@ -23,22 +23,19 @@ This task entailed the analysis of social media ad campaign data for a fintech c
 - Top 10 Ads by Engagement.
 - Interactive Filters: Filter insights by *Gender*, *Age group*.
 
-## Repository Structure
-- Tableau Files:
-  
-  Dashboard: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.twb
-  
-  Link 1: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-1/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-  
-  Link 2: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-2/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
- 
-- Dashboard Screenshots:
-  
+## Repository Structure  
   Dashboard 1: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.png "Logo title text 1")
   
   Dashboard 2: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Continuation.png "Logo title text 2")
 
 - Dataset: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/data_cleaned.csv
+
+## Tableau Files
+  Dashboard: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.twb
+  
+  Link 1: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-1/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  
+  Link 2: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-2/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Highlights from Analysis
 - Females (F) generate the most impressions (114.8M) and the most clicks (23.8k).
