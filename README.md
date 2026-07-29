@@ -1,5 +1,4 @@
-# FUTURE_DS_02
-## Task 2: Social Media Campaign Performance Tracker (Tableau)
+# Task 2: Social Media Campaign Performance Tracker (Tableau)
 
 This repository will house my work for *Task 2* of my internship with Future Interns.
 This task entailed the analysis of social media ad campaign data for a fintech company to provide their marketing team with insights such as *top ads by engagement*, *click through rate (CTR)*, *conversion rate* and ultimately, *pointers for improvement* on their next ad campaign. I used *Tableau* for this task. I chose *Tableau* for this task as I'm a *MacOS* user but a similar dashboard can be achieved using *Power BI*.
